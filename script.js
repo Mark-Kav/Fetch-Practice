@@ -9,6 +9,7 @@ async function getPokemon(name){
 }
 
 getPokemon("pikachu");
+console.log("mike was here");
 
 function searchForPokemon(){
     var pkmnInput = document.getElementById("pkmnInput");
